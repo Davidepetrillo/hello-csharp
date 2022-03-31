@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, everybody!");
+Console.WriteLine("Di seguito c'è la lista dei mesi dell'anno!");
 Console.WriteLine("Gennaio");
 Console.WriteLine("Febbraio");
 Console.WriteLine("Marzo");
